@@ -1,0 +1,9 @@
+Name: enhesaWebScraping.py
+Link: https://www.enhesa.com/
+Limited page number: 0
+Keywords:
+Soda
+Glass in building
+Food contact materials
+Glass containers
+
